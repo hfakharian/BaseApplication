@@ -1,0 +1,9 @@
+﻿dotnet ef migrations add init --project "src\BaseApplication\Persistence" --startup-project "src\BaseApplication\Api"
+
+dotnet ef migrations remove --project "src\BaseApplication\Persistence" --startup-project "src\BaseApplication\Api"
+
+update-database
+
+Script-Migration -From "20240228223818_init" -output out.sql
+
+dotnet tool update --global dotnet-ef

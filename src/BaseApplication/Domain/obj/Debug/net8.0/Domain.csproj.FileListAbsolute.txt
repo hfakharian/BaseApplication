@@ -1,0 +1,11 @@
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\bin\Debug\net8.0\Domain.dll
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\bin\Debug\net8.0\Domain.pdb
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.dll
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\Domain.pdb
+C:\My Folder\Projects\Personal\BaseApplication\src\BaseApplication\Domain\obj\Debug\net8.0\ref\Domain.dll
