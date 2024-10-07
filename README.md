@@ -2,9 +2,9 @@
 This project is a real core base of project that designed clean architecture with CQRS pattern
 
 # Prerequisites
-.NET 8 SDK
-Visual Studio 2019 or Visual Studio Code
-PostgreSQL
+* .NET 8 SDK
+* Visual Studio 2019 or Visual Studio Code
+* PostgreSQL
 
 ## Installation
 To Create Migration 
@@ -18,10 +18,10 @@ update-database
 ```
 
 # Technologies Used
-.NET 8
-Entity Framework Core
-PostgreSQL
-Custom Authentication JWT Token (Role Base)
-MediatR
-AutoMapper
-FluentValidation
+* .NET 8
+* Entity Framework Core
+* PostgreSQL
+* Custom Authentication JWT Token (Role Base)
+* MediatR
+* AutoMapper
+* FluentValidation
