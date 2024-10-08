@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4r9CB1QrujjJqujUB7uO8NlbLsaSqLETWrYKFq3qaIBOsPybz2XpzOhpt/3iLvsDcq+6sn1LOfefA6xOQfxTKQ==",
+  "dgSpecHash": "MOxn6ef14ZdUgdbppPNrQl9c9k+apyfChUVhGXjzXz8Up47QhLqqf0k0xfw8BCAeT/SyPFfae1TxaYNHuOfkYw==",
   "success": true,
-  "projectFilePath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Api\\Api.csproj",
+  "projectFilePath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hofak\\.nuget\\packages\\asp.versioning.abstractions\\8.0.0\\asp.versioning.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\hofak\\.nuget\\packages\\asp.versioning.http\\8.0.0\\asp.versioning.http.8.0.0.nupkg.sha512",

@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Application\\Application.csproj",
+      "projectPath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\hofak\\.nuget\\packages\\",
-      "outputPath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Application\\obj\\",
+      "outputPath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1034,14 +1034,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj": {
-              "projectPath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj"
+            "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj": {
+              "projectPath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj"
             },
-            "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Domain\\Domain.csproj"
+            "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Domain\\Domain.csproj"
             },
-            "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Utility\\Utility.csproj": {
-              "projectPath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Utility\\Utility.csproj"
+            "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Utility\\Utility.csproj": {
+              "projectPath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Utility\\Utility.csproj"
             }
           }
         }

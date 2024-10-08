@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igddJs4cAnEkp1yDeCvs6c1jJVyXDGQA+Qx0m0DgNlElFDOULq9WDXDw/oQDT5jX8fJZzUaGeU9yE5y2CBXxrA==",
+  "dgSpecHash": "M35xaRAwid3EIafmqwW+9JN7K8S0prCZusUZniCOEA2rtpiFGVL+283jZ95kKUR632Fe6YxqwuXVdRDVneDiXA==",
   "success": true,
-  "projectFilePath": "C:\\My Folder\\Projects\\Personal\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj",
+  "projectFilePath": "C:\\My Folder\\Projects\\Repos\\BaseApplication\\src\\BaseApplication\\Contract\\Contract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
