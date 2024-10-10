@@ -44,7 +44,7 @@ namespace Application.Features.RequestHandler.UserUnitRole.Queries
                 UserUnitRoleDTO = mapper.Map<Domain.Entities.User.UserUnitRole, UserUnitRoleDTO>(userUnitRole);
             }
 
-            var roles = await unitOfWork.RoleRepository.GetByExpression(w => w.RoleType == Domain.Entities.User.Enum.RoleType.Private);
+            var roles = await unitOfWork.RoleRepository.GetByExpression(w => w.RoleType == Domain.Entities.User.Enum.RoleType.Public);
 
             UserUnitRoleDTO.Roles = mapper.Map<IEnumerable<Domain.Entities.User.Role>, List<RoleDTO>>(roles);
 
