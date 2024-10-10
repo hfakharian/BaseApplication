@@ -25,3 +25,4 @@ update-database
 * MediatR
 * AutoMapper
 * FluentValidation
+* xUnit.net
