@@ -9,6 +9,10 @@ namespace Domain.DataTransferObjects.Collection
 {
     public class CollectionResult<T>
     {
+        public CollectionResult()
+        {
+        }
+
         public CollectionResult(T result)
         {
             this.Result = result;

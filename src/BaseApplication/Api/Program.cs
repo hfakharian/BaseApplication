@@ -7,6 +7,7 @@ using Api.Services.Security;
 using Contract.Services.Security;
 using NLog;
 using NLog.Web;
+using System.Text.Encodings.Web;
 
 
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -88,6 +89,7 @@ try
 
     logger.Info("WebApi initialized");
     app.Run();
+
 }
 catch (Exception ex)
 {
@@ -99,3 +101,5 @@ finally
     // Ensure to flush and stop internal timers/threads before application-exit (Avoid segmentation fault on Linux)
     NLog.LogManager.Shutdown();
 }
+
+public partial class Program { }
